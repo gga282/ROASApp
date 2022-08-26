@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ROASApp.Domain/1.0.0": {
+        "dependencies": {
+          "ROASApp.Data.IO": "1.0.0"
+        },
+        "runtime": {
+          "ROASApp.Domain.dll": {}
+        }
+      },
+      "ROASApp.Data.IO/1.0.0": {
+        "runtime": {
+          "ROASApp.Data.IO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROASApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ROASApp.Data.IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

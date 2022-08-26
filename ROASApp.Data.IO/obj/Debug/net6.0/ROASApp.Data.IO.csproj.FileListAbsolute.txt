@@ -1,0 +1,12 @@
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/bin/Debug/net6.0/ROASApp.Data.IO.deps.json
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/bin/Debug/net6.0/ROASApp.Data.IO.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/bin/Debug/net6.0/ROASApp.Data.IO.pdb
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.csproj.AssemblyReference.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.AssemblyInfoInputs.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.AssemblyInfo.cs
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.csproj.CoreCompileInputs.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/refint/ROASApp.Data.IO.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ROASApp.Data.IO.pdb
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Data.IO/obj/Debug/net6.0/ref/ROASApp.Data.IO.dll

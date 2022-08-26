@@ -1,0 +1,15 @@
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/bin/Debug/net6.0/ROASApp.Domain.deps.json
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/bin/Debug/net6.0/ROASApp.Domain.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/bin/Debug/net6.0/ROASApp.Domain.pdb
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/bin/Debug/net6.0/ROASApp.Data.IO.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/bin/Debug/net6.0/ROASApp.Data.IO.pdb
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.csproj.AssemblyReference.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.AssemblyInfoInputs.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.AssemblyInfo.cs
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.csproj.CoreCompileInputs.cache
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.csproj.CopyComplete
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/refint/ROASApp.Domain.dll
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ROASApp.Domain.pdb
+/Users/goksu/Downloads/170822 CSharp 101 ders notları-1/ROASApplication/ROASApp.Domain/obj/Debug/net6.0/ref/ROASApp.Domain.dll

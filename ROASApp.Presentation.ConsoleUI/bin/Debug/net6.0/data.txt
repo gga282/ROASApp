@@ -1,0 +1,1 @@
+[{"reklamKanali":"Deneme","reklamMaliyeti":15000,"birimFiyat":25,"satisAdedi":800},{"reklamKanali":"Instagram","reklamMaliyeti":8900,"birimFiyat":15,"satisAdedi":10000}]
